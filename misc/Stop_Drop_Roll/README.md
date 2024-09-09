@@ -20,7 +20,7 @@ Manually solving this can be very time-consuming. Instead, you can use Python to
 
 Here's the solution image for reference:
 
-![Solution Image](https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/rev/img/solution.png)
+![Solution Image]([https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/misc/Stop_Drop_Roll/img/wireshark.png])
 
 ## Flag
 
