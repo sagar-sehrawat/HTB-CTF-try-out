@@ -8,11 +8,11 @@ Are you ready to unravel the mysteries and expose the truth hidden within KROP's
 
 First, check out the site:
 
-![Site Screenshot](https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/web/site.png)
+![Site Screenshot](https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/web/TimeKORP/site.png)
 
 After examining all the files, I found something interesting in the `#TimeModel.php` file:
 
-![TimeModel.php Screenshot](https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/web/cmd.png)
+![TimeModel.php Screenshot](https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/web/TimeKORP/cmd.png)
 
 It executes the `date` command, which is a sign of a command injection vulnerability.
 
