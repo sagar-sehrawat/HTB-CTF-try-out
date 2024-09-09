@@ -12,9 +12,8 @@ First, check out the site:
 
 After examining all the files, I found something interesting in the `#TimeModel.php` file:
 
-![TimeModel.php Screenshot](add_image_here)
+![TimeModel.php Screenshot](https://github.com/sagar-sehrawat/HTB-CTF-try-out/blob/main/web/cmd.png)
 
-It executes the `date` command, which is a sign of command injection vulnerability.
+It executes the `date` command, which is a sign of a command injection vulnerability.
 
 I tried different payloads and successfully got a hit with this approach.
-
